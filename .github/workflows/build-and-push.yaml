@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  FULL_IMAGE: quay.io/zelkarrabi/shiftleft:v1
+  FULL_IMAGE: quay.io/zelkarrabi/prova:v1
 
 jobs:
   build-scan-push:
