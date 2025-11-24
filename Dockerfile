@@ -1,4 +1,4 @@
-FROM alpine:3.20
+FROM alpine:latest
 
 # Metadades útils 
 LABEL org.opencontainers.image.description="Imatge bàsica per provar GitHub Actions + Trivy"
